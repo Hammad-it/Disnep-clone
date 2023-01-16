@@ -12,7 +12,7 @@ function Header() {
           </a>
           <a>
             <img src='/images/search-icon.svg' />
-            <span>SEARCH</span>
+            <span>SEARCH click</span>
           </a>
           <a>
             <img src='/images/watchlist-icon.svg' />
