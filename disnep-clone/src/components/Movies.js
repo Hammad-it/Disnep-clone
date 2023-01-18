@@ -46,7 +46,6 @@ const Content=styled.div`
 display:grid;
 grid-gap:25px;
 grid-template-columns: repeat(4, minmax(0, 1fr));
-
 `
 
 const Wrap=styled.div`
@@ -65,7 +64,8 @@ img{
 &:hover{
     &:hover{
         transform:scale(1.05);
-        border-color: rgba(249, 249, 249, 0.8)
+        border-color: rgba(249, 249, 249, 0.8);
+        box-shadow: 0px 26px 30px -10px #000;
        }
 }
 `
